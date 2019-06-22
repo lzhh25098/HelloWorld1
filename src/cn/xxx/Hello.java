@@ -16,6 +16,6 @@ public class Hello {
         String name ="xiaolinzi";
         System.out.println("I LOVE YOU " + name);
         System.out.println("我爱你！"+name);
-
+        System.out.print("");
     }
 }
